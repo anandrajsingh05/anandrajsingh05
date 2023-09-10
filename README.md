@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandrajsingh05&label=Profile%20views&color=0e75b6&style=flat" alt="anandrajsingh05" /> </p>
 
-- 🌱 I’m currently learning **Low Level Design, Object Oriented Design**
+- 🌱 I’m currently learning **Microservices, Low Level Design, Object Oriented Design**
 
 - 👨‍💻 All of my projects are available at [My Portfolio-website](https://me-anand-portfolio.netlify.app/)
 
-- 💬 Ask me about **Core Java, Springboot, REST APIs, MySql, HTML5, CSS3 and JavaScript**
+- 💬 Ask me about **Core Java, Springboot, REST APIs, MySql, Angular, HTML5, CSS3 and JavaScript**
 
 - 📫 How to reach me **anandrajsingh256@gmail.com**
 
