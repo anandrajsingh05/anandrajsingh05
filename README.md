@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anand Raj Singh</h1>
-<h3 align="center">A passionate Java Backend developer </h3>
+<h3 align="center">A passionate Java Full Stack Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandrajsingh05&label=Profile%20views&color=0e75b6&style=flat" alt="anandrajsingh05" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio-website](https://me-anand-portfolio.netlify.app/)
 
-- 💬 Ask me about **Core Java, Springboot, REST APIs, MySql, Angular, HTML5, CSS3 and JavaScript**
+- 💬 Ask me about **Core Java, Springboot, Spring Security, Hibernate, REST APIs, Microservices, MySQL, Angular, HTML5, CSS and JavaScript**
 
 - 📫 How to reach me **anandrajsingh256@gmail.com**
 
