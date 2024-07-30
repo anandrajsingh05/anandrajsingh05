@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **anandrajsingh256@gmail.com**
 
-- 📄 Know about my experiences [Check it my Resume here.]([https://drive.google.com/drive/folders/1wZfnpFhUnFYSH6b5baEe6DrxfMsegCGA?usp=sharing](https://drive.google.com/file/d/1tZYBrItiyNy3A8SZMwY_shWaIX2kFb1Y/view?usp=drive_link))
+- 📄 Know about my experiences [Check it my Resume here.](https://drive.google.com/file/d/1tZYBrItiyNy3A8SZMwY_shWaIX2kFb1Y/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
